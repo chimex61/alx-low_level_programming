@@ -1,8 +1,11 @@
 #include <stdio.h>
+
 /**
-* main - prints output
+* main - output the string in the put function
 *
-* Returns 0
+* Description - usin the main function
+* with proper grammar, but the outcome is a piece of are
+* Return: 0
 */
 int main(void)
 {
