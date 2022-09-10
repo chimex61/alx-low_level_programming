@@ -1,8 +1,9 @@
-/*
- * File: 4-puts.c
- * Author: Francis John 
- */
 #include <stdio.h>
+/**
+  * main - Prints output
+  *
+  * Return: Always 0 (Success)
+  */
 int main(void)
 {
 	puts("\"Programming is like building a multilingual puzzle");
