@@ -5,7 +5,6 @@
 * @s: memory area to be filed
 * @b: value to be set
 * @n: number of bytes
-*
 * Return: pointer to memory area s
 */
 
