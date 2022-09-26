@@ -3,7 +3,7 @@
 /**
 * *_memcpy - copies bytes from memory area
 * @dest: where memory will be copied to
-* @src: value to be copied[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[Dis the value to be copied
+* @src: is the value to be copied
 * @n: number of bytes
 *
 * Return: returns a pointer to dest
